@@ -1,0 +1,6 @@
+C:/Users/Guille/Desktop/DATASETS/Dataset for clickbait detection/TXT/clickbait_data.txt
+C:/Users/Guille/Desktop/DATASETS/Dataset for clickbait detection/TXT/non_clickbait_data.txt
+C:/Users/Guille/Desktop/DATASETS/News Clickbait/train.csv
+C:/Users/Guille/Desktop/DATASETS/Webis Clickbait 17/clickbait17-validation-170630/instances.jsonl
+C:/Users/Guille/Desktop/DATASETS/Webis Clickbait 17/clickbait17-validation-170630/truth.jsonl
+C:/Users/Guille/Desktop/DATASETS/The Examiner - Spam Clickbait Catalog/examiner-date-text.csv
